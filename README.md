@@ -1,5 +1,6 @@
 # Credit_Card_Financial_Dashboard
 Credit card weekly power bi dashboard
+
 Project objective : Our aim is to develop a detailed dashboard updated weekly. It will give clear insights into key credit card metrics and trends, empowering stakeholders to closely monitor and analyze credit card operations.
 Data set : use Kaggle to download credit card financial dataset.
 steps : Extract data, transform, visualize, design, add interactivity, establish relationships, review and publish, then share and collaborate in Power BI.
